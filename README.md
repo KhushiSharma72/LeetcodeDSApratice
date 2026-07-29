@@ -23,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0450-delete-node-in-a-bst) |
+## Math
+|  |
+| ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0172-factorial-trailing-zeroes) |
 <!---LeetCode Topics End-->
