@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0172-factorial-trailing-zeroes) |
 | [0877-stone-game](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0877-stone-game) |
 ## Linked List
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0877-stone-game) |
 ## Heap (Priority Queue)
 |  |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0877-stone-game) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
