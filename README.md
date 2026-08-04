@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0053-maximum-subarray) |
+| [0162-find-peak-element](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0162-find-peak-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0877-stone-game](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0877-stone-game) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0162-find-peak-element) |
 | [0450-delete-node-in-a-bst](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Tree
 |  |
