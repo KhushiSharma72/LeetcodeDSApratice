@@ -50,10 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0160-intersection-of-two-linked-lists) |
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Divide and Conquer
 |  |
@@ -100,4 +102,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0561-array-partition) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
