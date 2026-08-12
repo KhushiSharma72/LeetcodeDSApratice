@@ -118,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Database
+|  |
+| ------- |
+| [0185-department-top-three-salaries](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
