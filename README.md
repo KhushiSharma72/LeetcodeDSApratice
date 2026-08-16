@@ -38,12 +38,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0172-factorial-trailing-zeroes) |
 | [0877-stone-game](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0877-stone-game) |
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0023-merge-k-sorted-lists) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0160-intersection-of-two-linked-lists) |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0191-number-of-1-bits) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
