@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0053-maximum-subarray) |
 | [0162-find-peak-element](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0164-maximum-gap) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0561-array-partition](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0164-maximum-gap) |
 | [0561-array-partition](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0561-array-partition) |
 ## Counting Sort
 |  |
@@ -149,4 +151,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0002-add-two-numbers) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
