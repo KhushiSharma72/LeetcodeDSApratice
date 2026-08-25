@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0877-stone-game) |
 | [1991-find-the-middle-index-in-array](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/2574-left-and-right-sum-differences) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Tree
 |  |
 | ------- |
