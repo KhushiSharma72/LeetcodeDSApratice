@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0164-maximum-gap) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0877-stone-game) |
 ## Heap (Priority Queue)
 |  |
