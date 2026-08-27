@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0172-factorial-trailing-zeroes) |
 | [0877-stone-game](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0877-stone-game) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0067-add-binary) |
 | [0345-reverse-vowels-of-a-string](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0383-ransom-note) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0191-number-of-1-bits) |
 ## Recursion
 |  |
@@ -179,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0164-maximum-gap) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
