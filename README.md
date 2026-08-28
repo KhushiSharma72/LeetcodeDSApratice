@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0383-ransom-note](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -186,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0067-add-binary) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
