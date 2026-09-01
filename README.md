@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0164-maximum-gap) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0506-relative-ranks](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0724-find-pivot-index](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0724-find-pivot-index) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0023-merge-k-sorted-lists) |
+| [0506-relative-ranks](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0506-relative-ranks) |
 ## Merge Sort
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0164-maximum-gap) |
+| [0506-relative-ranks](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0561-array-partition) |
 ## Counting Sort
 |  |
