@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/1046-last-stone-weight) |
 | [1991-find-the-middle-index-in-array](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/1991-find-the-middle-index-in-array) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2574-left-and-right-sum-differences](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/2574-left-and-right-sum-differences) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0506-relative-ranks) |
 | [1046-last-stone-weight](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/1046-last-stone-weight) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Merge Sort
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0067-add-binary) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Sliding Window
 |  |
 | ------- |
