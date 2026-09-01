@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0724-find-pivot-index](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/1046-last-stone-weight) |
 | [1991-find-the-middle-index-in-array](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/1991-find-the-middle-index-in-array) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0172-factorial-trailing-zeroes) |
 | [0877-stone-game](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0973-k-closest-points-to-origin) |
 ## Linked List
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0506-relative-ranks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0973-k-closest-points-to-origin](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/1046-last-stone-weight) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -146,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0561-array-partition) |
+| [0973-k-closest-points-to-origin](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0973-k-closest-points-to-origin) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Counting Sort
 |  |
@@ -232,4 +237,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
