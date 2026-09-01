@@ -36,15 +36,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0450-delete-node-in-a-bst) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0162-find-peak-element) |
 | [0450-delete-node-in-a-bst](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0450-delete-node-in-a-bst) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0450-delete-node-in-a-bst) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Math
 |  |
 | ------- |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0023-merge-k-sorted-lists) |
 | [0506-relative-ranks](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0506-relative-ranks) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/1046-last-stone-weight) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -204,4 +208,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0003-longest-substring-without-repeating-characters) |
+## Design
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0703-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
