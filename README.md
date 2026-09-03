@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0162-find-peak-element) |
+| [0367-valid-perfect-square](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0367-valid-perfect-square) |
 | [0450-delete-node-in-a-bst](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0450-delete-node-in-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0172-factorial-trailing-zeroes) |
 | [0263-ugly-number](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0263-ugly-number) |
+| [0367-valid-perfect-square](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0367-valid-perfect-square) |
 | [0877-stone-game](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0973-k-closest-points-to-origin) |
 ## Linked List
