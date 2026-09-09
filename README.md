@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0162-find-peak-element) |
+| [0278-first-bad-version](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0367-valid-perfect-square) |
 | [0450-delete-node-in-a-bst](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0450-delete-node-in-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -263,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0515-find-largest-value-in-each-tree-row) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
