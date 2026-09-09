@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0704-binary-search](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0973-k-closest-points-to-origin) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0367-valid-perfect-square) |
 | [0450-delete-node-in-a-bst](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0450-delete-node-in-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0704-binary-search](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0704-binary-search) |
 ## Binary Tree
 |  |
 | ------- |
