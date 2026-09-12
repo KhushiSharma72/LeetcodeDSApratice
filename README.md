@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/1046-last-stone-weight) |
+| [1572-matrix-diagonal-sum](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/1572-matrix-diagonal-sum) |
 | [1991-find-the-middle-index-in-array](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/1991-find-the-middle-index-in-array) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -272,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0278-first-bad-version) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
