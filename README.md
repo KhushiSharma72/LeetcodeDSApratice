@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0704-binary-search](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0724-find-pivot-index) |
+| [0832-flipping-an-image](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/1046-last-stone-weight) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0345-reverse-vowels-of-a-string) |
+| [0832-flipping-an-image](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0832-flipping-an-image) |
 ## String
 |  |
 | ------- |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0191-number-of-1-bits) |
+| [0832-flipping-an-image](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0832-flipping-an-image) |
 ## Recursion
 |  |
 | ------- |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0067-add-binary) |
+| [0832-flipping-an-image](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0832-flipping-an-image) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Sliding Window
 |  |
@@ -276,5 +280,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/0832-flipping-an-image) |
 | [1572-matrix-diagonal-sum](https://github.com/KhushiSharma72/LeetcodeDSApratice/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
